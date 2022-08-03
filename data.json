@@ -69,7 +69,10 @@
         ]
     },
     "projects": {
-        
+        "baseURI": "https://api.github.com/repos/sulobag/",
+        "repositories": [
+
+        ]
     },
     "experience": {
        
